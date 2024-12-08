@@ -32,7 +32,7 @@ A simple, customizable Bash script to bootstrap Python projects with a virtual e
 
     Enter a project name.
 
-    Specify the Python version (e.g., python3.9).
+    Specify the Python version (e.g., python3.9). You could also hit return to default to the latest python3.x version you have installed.
     
     Once completed, navigate to your project directory to start coding:
 
